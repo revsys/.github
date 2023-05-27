@@ -1,10 +1,16 @@
 # REVSYS The Leader in Python and Django Consulting
 
+## Links
+
+- [Our blog](https://www.revsys.com/tidbits/)
+- Follow us [on Twitter](https://twitter.com/revsys)
+- [Our website](https://www.revsys.com)
 ## Services
 
 - Python consulting and development, particularly around performance optimization
 - Django development, team augmentation, mentoring and optimization
 - Help moving to or operating with Kubernetes
+- Web application architecture consulting
 
 
 ## Products
