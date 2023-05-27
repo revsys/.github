@@ -13,6 +13,7 @@ We offer technical support and consultation for complex Open Source systems.
 
 - Python consulting and development, particularly around performance optimization
 - Django development, team augmentation, mentoring and optimization
+- Vanilla and ReactJS frontend development
 - Help moving to or operating Kubernetes clusters
 - Web application architecture consulting
 
