@@ -1,4 +1,4 @@
-# REVSYS The Leader in Python and Django Consulting
+# REVSYS World-Class Python and Django Consulting
 
 We are performance tuners, Django and Python experts, infrastructure and scaling architects.
 
